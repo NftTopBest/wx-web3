@@ -22,9 +22,11 @@
 3. `api/getData.js`: NFT数据的存储缓存逻辑，5 分钟过期时间
 4. `fe/userWalletAddress.vue`: H5 展示用户 NFT 的前端核心代码
 
-## Demo 体验 及 示范截图
+## 示范截图: 请查看 [screenshot目录](./screenshot)
 
-请查看 [screenshot](./screenshot)
+## Demo 体验: 微信服务号扫码体验
+
+<img src="./screenshot/wx-service-qrcode.jpg" width="300" />
 
 ## Contract
 
