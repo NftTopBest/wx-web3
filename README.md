@@ -26,11 +26,11 @@
 
 ## Demo 体验: 微信服务号扫码体验
 
-<img src="./screenshot/wx-service-qrcode.jpg" width="300" />
+<img src="./wx-service-qrcode.jpg" width="300" />
 
 ## Contract
 
-* Twitter: @Web3HackerNinja
+* Twitter: [@Web3HackerNinja](https://twitter.com/web3hackerninja)
 * email: Bruce@Web3Hacker.Ninja
 
 加入产品种子用户群：
