@@ -32,3 +32,7 @@
 
 * Twitter: @Web3HackerNinja
 * email: Bruce@Web3Hacker.Ninja
+
+加入产品种子用户群：
+
+<img src="./wx-group-invite.jpg" width="300" />
